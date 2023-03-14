@@ -1,0 +1,29 @@
+body {
+  font-family: Arial;
+  background-color: aliceblue;
+  padding: 40px 0px;
+}
+h1 {
+  font-size: 36px;
+}
+span {
+  color: darkgray;
+}
+h2 {
+  color: dodgerblue;
+  font-size: 28px;
+}
+h3 {
+  color: dodgerblue;
+}
+img {
+  width: 150px;
+  height: 150px;
+}
+section,
+header {
+  padding: 10px 60px 20px 60px;
+  background-color: white;
+  width: 960px;
+  margin: 0 auto;
+}
